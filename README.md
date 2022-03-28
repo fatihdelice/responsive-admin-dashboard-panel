@@ -1,4 +1,8 @@
 # responsive-admin-dashboard-panel
+# Content Information
+→ Responsive Design
+→ Dark Mode
+→ Local Storage
 
 # Demo
 →https://fatihdelice.github.io/responsive-admin-dashboard-panel/
