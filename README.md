@@ -1,5 +1,4 @@
 # responsive-admin-dashboard-panel
-Responsive Admin Dashboard Panel
 
 # Demo
 →https://fatihdelice.github.io/responsive-admin-dashboard-panel/
